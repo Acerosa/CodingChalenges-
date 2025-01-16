@@ -1,0 +1,15 @@
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/bin/Debug/net7.0/CodingChalenges
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/bin/Debug/net7.0/CodingChalenges.deps.json
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/bin/Debug/net7.0/CodingChalenges.runtimeconfig.json
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/bin/Debug/net7.0/CodingChalenges.dll
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/bin/Debug/net7.0/CodingChalenges.pdb
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.csproj.AssemblyReference.cache
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.AssemblyInfoInputs.cache
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.AssemblyInfo.cs
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.csproj.CoreCompileInputs.cache
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.dll
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/refint/CodingChalenges.dll
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.pdb
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/CodingChalenges.genruntimeconfig.cache
+/Users/ricardorosa/Documents/Lessons/CodingChalenges/obj/Debug/net7.0/ref/CodingChalenges.dll
