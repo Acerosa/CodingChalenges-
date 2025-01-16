@@ -100,3 +100,11 @@
 /Users/ricardorosa/Documents/Lessons/Tests/obj/Debug/net7.0/ref/Tests.dll
 /Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/xunit.runner.visualstudio.testadapter.dll
 /Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/.msCoverageSourceRootsMapping_Tests
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/nunit.engine.dll
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/nunit.framework.dll
+/Users/ricardorosa/Documents/Lessons/Tests/bin/Debug/net7.0/nunit.framework.legacy.dll

@@ -38,9 +38,9 @@ public class FizzBuzzSolver
 
 
 // You can use the Main method to test your implementation:
-public static void Main()
-{
-    //Console.WriteLine(FizzBuzz(15));
-}
+// public static void Main()
+// {
+//     //Console.WriteLine(FizzBuzz(15));
+// }
 
 }
